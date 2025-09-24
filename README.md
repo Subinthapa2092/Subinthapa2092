@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **subinthapa2092@gmail.com**
+- 📫 How to reach me **subinthapa.com.np**
 
 - ⚡ Fun fact **I am Funny**
 
