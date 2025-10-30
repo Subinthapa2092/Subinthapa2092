@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **subinthapa.com.np**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I Love learning*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
