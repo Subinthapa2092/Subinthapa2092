@@ -31,7 +31,7 @@
 <a href="https://twitter.com/subinthapa2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subinthapa2022" height="30" width="40" /></a>
 <a href="https://fb.com/subinthapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subinthapa" height="30" width="40" /></a>
 <a href="https://instagram.com/subinthapa04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subinthapa04" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewith_subin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewith_subin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codingwithsubin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewith_subin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
