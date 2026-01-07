@@ -69,15 +69,25 @@
 </p>
 
 ---
+## 📊 GitHub Stats & Awards
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subinthapa2092&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subinthapa2092&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="49%" style="margin-right:2%" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=subinthapa2092&show_icons=true&locale=en" alt="GitHub Stats" width="49%" />
 </p>
 
-<p align="left">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subinthapa2092&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subinthapa2092" alt="GitHub Streak" width="49%" />
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subinthapa2092" alt="GitHub Streak" />
+---
+
+### 🏆 GitHub Awards
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subinthapa2092&theme=radical&row=1" alt="GitHub Trophies" />
 </p>
